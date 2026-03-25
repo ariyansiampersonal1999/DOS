@@ -16,3 +16,14 @@ A simple and powerful web request testing tool for Termux and Python users.
 ---
 
 ## 📸 Preview
+
+---
+
+## ⚙️ Installation (Termux)
+
+```bash
+pkg update && pkg upgrade
+pkg install python
+pip install requests
+pkg install git
+git clone 
