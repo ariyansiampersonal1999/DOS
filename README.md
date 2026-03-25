@@ -26,4 +26,4 @@ pkg update && pkg upgrade
 pkg install python
 pip install requests
 pkg install git
-git clone 
+git clone https://github.com/ariyansiampersonal1999/DOS.git
