@@ -28,19 +28,6 @@ It allows users to send multiple requests and monitor response status in real-ti
 
 ## 📸 Preview
 
----
-
-## ⚙️ Installation
-
-### 📱 Termux Setup
-
-```bash
-pkg update && pkg upgrade
-pkg install python git
-pip install requests
-pkg install git
-git clone https://github.com/ariyansiampersonal1999/DOS.git
-
 ## 👨‍💻 Developer
 
 <p align="center">
@@ -57,3 +44,15 @@ git clone https://github.com/ariyansiampersonal1999/DOS.git
 👉 https://www.facebook.com/FU3K.Y0U  
 
 </p>
+---
+
+## ⚙️ Installation
+
+### 📱 Termux Setup
+
+```bash
+pkg update && pkg upgrade
+pkg install python git
+pip install requests
+pkg install git
+git clone https://github.com/ariyansiampersonal1999/DOS.git
