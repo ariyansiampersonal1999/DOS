@@ -1,17 +1,28 @@
 # ⚡ ARIYAN WEB MONITOR
 
-A simple and powerful web request testing tool for Termux and Python users.
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Platform-Termux-black?style=for-the-badge">
+</p>
 
 ---
 
-## 🚀 Features
+## 🚀 Description
 
-- 🔍 Send multiple requests to a target URL
-- 📊 Shows status code (200, 404, 500, etc.)
-- 📈 Final report (Success / Failed)
-- 🎨 Stylish terminal UI with colors
-- 📱 Termux supported
-- 🔗 Quick access to Developer links
+**ARIYAN WEB MONITOR** is a simple yet powerful Python-based tool designed to test website responses directly from your terminal.  
+It allows users to send multiple requests and monitor response status in real-time.
+
+---
+
+## ✨ Features
+
+- 🔁 Send multiple requests to any URL  
+- 📊 Live status code display  
+- 📈 Final report (Success / Failed)  
+- 🎨 Colorful & stylish CLI interface  
+- 📱 Fully compatible with Termux  
+- 🔗 Direct access to developer profiles  
 
 ---
 
@@ -19,13 +30,14 @@ A simple and powerful web request testing tool for Termux and Python users.
 
 ---
 
-## ⚙️ Installation (Termux)
+## ⚙️ Installation
+
+### 📱 Termux Setup
 
 ```bash
 pkg update && pkg upgrade
-pkg install python
+pkg install python git
 pip install requests
 pkg install git
 git clone https://github.com/ariyansiampersonal1999/DOS.git
-
 
