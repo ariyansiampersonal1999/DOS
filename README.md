@@ -29,16 +29,3 @@ pkg install git
 git clone https://github.com/ariyansiampersonal1999/DOS.git
 
 
-🧠 How It Works
-Enter a target URL
-Set how many requests you want to send
-Tool sends requests and shows status codes
-Displays final report
-⚠️ Disclaimer
-This tool is made for educational and testing purposes only.
-Do not use it for illegal activities or to harm any website.
-👤 Developer
-Name: ARIYAN SIAM
-GitHub: https://github.com/ariyansiampersonal1999⁠�
-Telegram: https://t.me/ARIYANSIAM⁠�
-Facebook: https://www.facebook.com/FU3K.Y0U⁠�
