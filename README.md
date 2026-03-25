@@ -1,4 +1,4 @@
-# ⚡ ARIYAN WEB MONITOR
+# ⚡ ARIYAN DOS TOOL 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0-green?style=for-the-badge">
@@ -10,7 +10,7 @@
 
 ## 🚀 Description
 
-**ARIYAN WEB MONITOR** is a simple yet powerful Python-based tool designed to test website responses directly from your terminal.  
+**ARIYAN DOS TOOL** is a simple yet powerful Python-based tool designed to test website responses directly from your terminal.  
 It allows users to send multiple requests and monitor response status in real-time.
 
 ---
@@ -41,3 +41,19 @@ pip install requests
 pkg install git
 git clone https://github.com/ariyansiampersonal1999/DOS.git
 
+## 👨‍💻 Developer
+
+<p align="center">
+
+👤 **ARIYAN SIAM**  
+
+🌐 GitHub  
+👉 https://github.com/ariyansiampersonal1999  
+
+✈️ Telegram  
+👉 https://t.me/ARIYANSIAM  
+
+📘 Facebook  
+👉 https://www.facebook.com/FU3K.Y0U  
+
+</p>
