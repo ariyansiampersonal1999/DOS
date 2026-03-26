@@ -26,7 +26,9 @@ It allows users to send multiple requests and monitor response status in real-ti
 
 ---
 
-## 📸 Preview
+## 📸 Screenshot
+
+![Tool Preview](https://f.top4top.io/s_3736bs7ya0.jpeg)
 
 ## 👨‍💻 Developer
 
