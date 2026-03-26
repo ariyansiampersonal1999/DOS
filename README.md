@@ -25,10 +25,16 @@ It allows users to send multiple requests and monitor response status in real-ti
 - 🔗 Direct access to developer profiles  
 
 ---
+## 🚀 ARIYAN WEB MONITOR
 
-## 📸 Screenshot
+<p align="center">
+  <img src="https://f.top4top.io/s_3736bs7ya0.jpeg" width="700">
+</p>
 
-![Tool Preview](https://f.top4top.io/s_3736bs7ya0.jpeg)
+<p align="center">
+  ⚡ Powerful Web Monitoring Tool <br>
+  🔍 Fast • Simple • Effective
+</p>
 
 ## 👨‍💻 Developer
 
